@@ -54,8 +54,11 @@ Smart shoppers spend above average while consistently using discounts
 
 🔝 Top-Rated Products
 Product	Rating
+
 Blouse	⭐ 5
+
 Dress	⭐ 5
+
 Shirt	⭐ 4
 
 These products can be pushed in marketing campaigns due to high satisfaction levels.
