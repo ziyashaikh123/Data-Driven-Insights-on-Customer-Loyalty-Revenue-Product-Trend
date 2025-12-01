@@ -95,6 +95,7 @@ Regular shoppers with high potential to convert to loyal
 Biggest growth opportunity
 
 🧠 Strategic Recommendations
+
 ✔ Boost Subscriptions
 
 Promote exclusive member benefits.
@@ -120,9 +121,13 @@ Highlight high-rated items in product pages and ads.
 🛠️ Tech Stack
 
 Python (Pandas, NumPy)
+
 MySQL / PostgreSQL
+
 Power BI Dashboard
+
 Jupyter Notebook
+
 Matplotlib / Seaborn
 
 ## 📊 Power BI Dashboard
