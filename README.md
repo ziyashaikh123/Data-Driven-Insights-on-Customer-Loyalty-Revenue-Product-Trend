@@ -130,9 +130,9 @@ Matplotlib / Seaborn
 Below is the interactive dashboard built using Power BI, showcasing
 key insights on revenue, customer behavior, product trends, and discounts.
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Customer_shopping_behavior.png)
 
 📥 **Download Full Dashboard (.pbix)**  
-[Download here](dashboard/Customer_Shopping_Analysis.pbix)
+[Download here](Customer_shopping_behavior.pbix)
 
 
