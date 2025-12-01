@@ -120,10 +120,10 @@ Highlight high-rated items in product pages and ads.
 🛠️ Tech Stack
 
 Python (Pandas, NumPy)
-
 MySQL / PostgreSQL
-
 Power BI Dashboard
+Jupyter Notebook
+Matplotlib / Seaborn
 
 ## 📊 Power BI Dashboard
 
@@ -135,6 +135,4 @@ key insights on revenue, customer behavior, product trends, and discounts.
 📥 **Download Full Dashboard (.pbix)**  
 [Download here](dashboard/Customer_Shopping_Analysis.pbix)
 
-Jupyter Notebook
 
-Matplotlib / Seaborn
